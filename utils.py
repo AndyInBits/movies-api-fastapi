@@ -1,6 +1,6 @@
 movies = [
     {
-        '_id': 1,
+        'id': 1,
         'title': 'Avatar',
         'overview': "En un exuberante planeta llamado Pandora viven los Na'vi, seres que ...",
         'year': '2009',
@@ -8,7 +8,7 @@ movies = [
         'category': 'Acción'
     },
     {
-        '_id': 2,
+        'id': 2,
         'title': 'Inception',
         'overview': "Dom Cobb es un ladrón hábil, el mejor en el peligroso arte de la ...",
         'year': '2010',
@@ -16,7 +16,7 @@ movies = [
         'category': 'Ciencia Ficción'
     },
     {
-        '_id': 3,
+        'id': 3,
         'title': 'The Dark Knight',
         'overview': "Batman se enfrenta al Joker, un villano despiadado que busca sembrar ...",
         'year': '2008',
@@ -25,7 +25,7 @@ movies = [
     },
     # Agrega más películas aquí...
     {
-        '_id': 18,
+        'id': 18,
         'title': 'Pulp Fiction',
         'overview': "La vida de varios personajes se entrelaza en una serie de eventos ...",
         'year': '1994',
@@ -33,7 +33,7 @@ movies = [
         'category': 'Crimen'
     },
     {
-        '_id': 19,
+        'id': 19,
         'title': 'The Shawshank Redemption',
         'overview': "La historia de la amistad entre dos presos en la Penitenciaría ...",
         'year': '1994',
@@ -41,7 +41,7 @@ movies = [
         'category': 'Drama'
     },
     {
-        '_id': 20,
+        'id': 20,
         'title': 'Forrest Gump',
         'overview': "La vida de Forrest Gump, un hombre con bajo coeficiente intelectual, ...",
         'year': '1994',
